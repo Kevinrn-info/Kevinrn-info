@@ -3,5 +3,5 @@
 > [!NOTE]
 > En proceso
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,git,htmx,ai,mysql,py,pycharm,)](https://skillicons.dev)
 
