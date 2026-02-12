@@ -20,6 +20,15 @@
 <h1 align="center">Hey 👋 Welcome to my profile! <img src="https://img.icons8.com/?size=100&id=5ltp63P4dj0r&format=png&color=000000" width="40" align="botton"/> </h1>
 <p align="center">Hi, nice to meet you! I'm Kevin Robles, and I'm passionate about transforming raw data into clear business decisions using software. I have experience leading data collection teams and combining that with technical analysis in SQL and Python. I'm looking for opportunities where I can help optimize processes and generate valuable insights. I invite you to read more about me!</p>
 
+<div align="center">
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="40" alt="Excel logo"/>
+  <img width="12" />
+ <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="PowerBI logo"/>
+  <img width="12" />
+ <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="Python logo"/>
+  <img width="12" />
+</div>
+
 <h2 align="left">About me</h2>
 
 > [!NOTE]
@@ -67,18 +76,19 @@
 
 <p align="left">Hello World!!</p>
 
-###
 
 <div align="left">
 
   
-  <a href="https://www.linkedin.com/in/krobles-info" target="_blank">
+  <a href="https://www.linkedin.com/in/krobles-info" target="" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
   </a>
-  <a href="https://wa.me/86587630?text=¡Hola!%20Un%20gusto%20saludarte.%20Gracias%20por%20tu%20mensaje,%20en%20breve%20estaremos%20en%20Contacto." target="_blank">
+  <img width="12" />
+  <a href="https://wa.me/86587630?text=¡Hola!%20Un%20gusto%20saludarte.%20Gracias%20por%20tu%20mensaje,%20en%20breve%20estaremos%20en%20Contacto." target="" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo">
   </a>
-  <a href="" target="_blank">
+  <img width="12" />
+  <a href="" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
   </a>
 
