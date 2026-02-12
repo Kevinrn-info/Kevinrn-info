@@ -1,17 +1,41 @@
+<!--
+ Imagenes:  <img src="" />
+
+
+
+
+
+
+
+
+
+
+-->
 
 
 <div>
   <img style="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h1 align="center">Hey 👋 Welcome to my profile!</h1>
-<p align="center">Hi, nice to meet you! I'm Kevin Robles, and I'm passionate about transforming raw data into clear business decisions using software. I invite you to read more about me in the next section!</p>
+<h1 align="center">Hey 👋 Welcome to my profile! <img src="https://img.icons8.com/?size=100&id=5ltp63P4dj0r&format=png&color=000000" width="40" align="botton"/> </h1>
+<p align="center">Hi, nice to meet you! I'm Kevin Robles, and I'm passionate about transforming raw data into clear business decisions using software. I have experience leading data collection teams and combining that with technical analysis in SQL and Python. I'm looking for opportunities where I can help optimize processes and generate valuable insights. I invite you to read more about me!</p>
+
 <h2 align="left">About me</h2>
 
 > [!NOTE]
 > En proceso
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="20"/> Creating bugs since ...<br>
+  📚 I'm currently learning ...<br>
+  🎯 Goals: ...<br>
+  🎲 Fun fact: ...
+
+</p>
+
+
+  
+
 
 <h2 align="left">Technical Skills</h2>
 
@@ -46,11 +70,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/krobles-info" target="_self">
+
+  
+  <a href="https://www.linkedin.com/in/krobles-info" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
+  <a href="https://wa.me/86587630?text=¡Hola!%20Un%20gusto%20saludarte.%20Gracias%20por%20tu%20mensaje,%20en%20breve%20estaremos%20en%20Contacto." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo">
+  </a>
+
+  
 </div>
 
 <div>
