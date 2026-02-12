@@ -71,13 +71,13 @@
 <h2 align="left">Contact</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/krobles-info" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/krobles-info" target="_blank" title="krobles-info">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>
   <img width="12" />
-  <a href="https://wa.me/86587630?text=¡Hola!%20Un%20gusto%20saludarte.%20Gracias%20por%20tu%20mensaje,%20en%20breve%20estaremos%20en%20Contacto." target="_blank" style="text-decoration: none;">
+  <a href="https://wa.me/86587630?text=¡Hola!%20Un%20gusto%20saludarte.%20Gracias%20por%20tu%20mensaje,%20en%20breve%20estaremos%20en%20Contacto." target="_blank" style="text-decoration: none;" title="86587630">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"></a>
   <img width="12" />
-  <a href="mailto:krobles.info@gmail.com" target="_blank">
+  <a href="mailto:krobles.info@gmail.com" target="_blank" title="krobles.info@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"></a>
 </div>
 
