@@ -46,9 +46,9 @@
       <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="NumPy" title="NumPy" />
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="30" alt="Power BI" title="Power BI" />
+     <!-- <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="30" alt="Power BI" title="Power BI" /> -->
       <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="30" alt="Excel" title="Excel / Power Query" />
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva" title="Canva" />
+     <!-- <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="Canva" title="Canva" /> -->
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" title="PostgreSQL" />
@@ -66,10 +66,10 @@
 <h2 align="left">🚀 Featured Data Projects</h2>
 
 <!-- Placeholder for future GitHub repositories -->
-| Project Name | Description | Technologies Used | Link |
-|--------------|-------------|-------------------|------|
-| **[Project 1: e.g., Corporate Data Pipeline]** | End-to-end ETL pipeline extracting data from APIs, transforming it using Python (Pandas), and visualizing KPIs. | `Python`, `SQL`, `Power BI` | [View Repository](#) |
-| **[Project 2: e.g., Sales Dashboard]** | Dimensional data modeling (Star Schema) and interactive dashboard creation for stakeholder decision-making. | `SQL`, `DAX`, `Excel` | [View Repository](#) |
+Description | Technologies Used 
+------------|------------------
+End-to-end ETL pipeline extracting data from APIs, transforming it using Python (Pandas), and visualizing KPIs. | `Python`, `SQL`, `Power BI` 
+ Dimensional data modeling (Star Schema) and interactive dashboard creation for stakeholder decision-making. | `SQL`, `DAX`, `Excel` 
 
 <h2 align="left">💼 Professional Experience Overview</h2>
 <p>
